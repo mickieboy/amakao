@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2a1a11"/><stop offset="1" stop-color="#0f0906"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".45"/></filter></defs>
+<rect width="800" height="900" fill="#ece0cf"/>
+<g opacity=".4" fill="#6b8b50"><ellipse cx="125" cy="180" rx="150" ry="46" transform="rotate(-30 125 180)"/><ellipse cx="675" cy="690" rx="175" ry="50" transform="rotate(28 675 690)"/></g>
+<g filter="url(#s)" transform="translate(190 95)"><rect width="420" height="690" rx="14" fill="url(#b)" stroke="#c7a46a" stroke-width="3"/><rect x="28" y="30" width="364" height="630" rx="8" fill="none" stroke="#c7a46a" stroke-opacity=".45"/>
+<g fill="none" stroke="#c7a46a" stroke-width="2"><path d="M210 60c-35 24-52 64-45 105 7 38 31 58 45 58s38-20 45-58c7-41-10-81-45-105Z"/><path d="M210 68v148M184 106c18 11 35 11 52 0M177 148c22 12 44 12 66 0"/></g>
+<text x="210" y="270" text-anchor="middle" fill="#f7ecd9" font-family="Georgia,serif" font-size="42" letter-spacing="6">AMAKAO</text>
+<text x="210" y="322" text-anchor="middle" fill="#c7a46a" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">ORIGEN 70%</text>
+<line x1="92" y1="350" x2="328" y2="350" stroke="#c7a46a" opacity=".7"/>
+<text x="210" y="395" text-anchor="middle" fill="#d9cdbd" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">CACAO AMAZÓNICO</text>
+<text x="210" y="530" text-anchor="middle" fill="#c7a46a" font-family="Georgia,serif" font-size="110">70%</text>
+<text x="210" y="570" text-anchor="middle" fill="#d9cdbd" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">CACAO</text>
+<path d="M90 615c70-35 170-35 240 0" stroke="#c7a46a" stroke-width="2" fill="none" opacity=".65"/>
+</g></svg>
