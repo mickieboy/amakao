@@ -190,7 +190,6 @@ function initProductPage() {
         </div>
         <button class="btn btn-primary" id="detailAdd"><i class="fa-solid fa-bag-shopping"></i> Agregar al carrito</button>
       </div>
-      <div class="notice">Proyecto académico desarrollado para el curso Comunicación Digital Efectiva – ISIL, 2026</div>
       <div class="detail-panels">
         <details class="detail-panel" open><summary>Descripción</summary><p>${p.description}</p></details>
         <details class="detail-panel"><summary>Ingredientes</summary><p>${p.ingredients}</p></details>
